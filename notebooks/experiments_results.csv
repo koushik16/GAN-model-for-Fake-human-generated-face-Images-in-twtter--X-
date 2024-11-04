@@ -1,0 +1,3 @@
+scale_factor,min_neighbors,positive_feature_count,negative_feature_count,dataset,dataset_size
+1.01,3,128148,1211,ffhq,52000
+1.01,3,60378,738,stylegan,25000
